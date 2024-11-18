@@ -6,7 +6,7 @@
 ## Docker Compose Lab: Wordpress
 
 ## Purpose
-	- The purpose of this documentation is to guide you through the setup of the application Wordpress through docker. Wordpress being a “free and open source blogging tool and a content management system (CMS) based on PHP and MySQL, which runs on a web hosting service” per this Website. 
+- The purpose of this documentation is to guide you through the setup of the application Wordpress through docker. Wordpress being a “free and open source blogging tool and a content management system (CMS) based on PHP and MySQL, which runs on a web hosting service” per this Website. 
 
 ## Process
 For simplicity and clarity any text in between [] is text that should be input into the command line
